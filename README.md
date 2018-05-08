@@ -1,4 +1,4 @@
-# googleIO2018
+# google I/O 2018 Extended Guatemala City
 Taller javascript + firebase para el Google IO Extended Guatemala City
 
 

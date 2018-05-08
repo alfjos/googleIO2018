@@ -1,0 +1,19 @@
+{
+  "name": "googleio2018",
+  "version": "1.0.0",
+  "description": "Google IO Extended Guatemala City",
+  "main": "displayTemp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfjos/googleIO2018.git"
+  },
+  "author": "Alfredo Jose Ortiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfjos/googleIO2018/issues"
+  },
+  "homepage": "https://github.com/alfjos/googleIO2018#readme"
+}
